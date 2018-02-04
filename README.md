@@ -40,4 +40,4 @@ const elevationinfo = require('elevationinfo');
 
 * **elevationinfo.isElevatedAsync**
 	Checks if the process is running with elevated privileges, asynchronously.
-	* **returns** same as **isRootAsync** on Linux and Mac, and **isAdminSync** on Window
+	* **returns** same as **isRootAsync** on Linux and Mac, and **isAdminSync** on Windows
