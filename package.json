@@ -1,0 +1,11 @@
+{
+  "name": "elevationinfo",
+  "version": "1.0.0",
+  "description": "Checks if process is running as root or admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lufinkey",
+  "license": "MIT"
+}
